@@ -8,4 +8,6 @@ Empirical Results:
 - Heterogeneity Checks: Generates the results shown in Section Heterogeneity and Boundary Conditions.
 
 Measurement:
--
+- Measurement.ipynb: This is the our python code for the three process shown in Section Data and Measurement. At the beginning of this file, we provide links to download the data required to construct the LLM Exposure and Supervision Exposure indices.
+- 
+
